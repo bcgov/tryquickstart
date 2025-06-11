@@ -8,7 +8,7 @@ import { VersioningType } from '@nestjs/common';
 import { metricsMiddleware } from "src/middleware/prom";
 
 /**
- *
+ * a sample change to trigger pipelines
  */
 export async function bootstrap() {
   const app: NestExpressApplication =
