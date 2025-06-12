@@ -87,7 +87,7 @@ const Dashboard: FC = () => {
                   size="sm"
                   onClick={() => setSelectedUser(user)}
                 >
-                  View Details
+                  View Details Further
                 </Button>
               </td>
             </tr>
